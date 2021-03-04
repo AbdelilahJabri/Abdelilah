@@ -16,10 +16,10 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" height ="45px">
-          <img src = "https://symfony.com/images/logos/sf-positive.svg" height ="45px">
-          <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height ="45px">
-          <img src = "https://api-platform.com/static/1d564bfa48554e9e55528e4352daeec4/77647/Logo_Circle%20webby%20text%20blue%20light.png" height ="45px">
+          <img src = "https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" height ="35px">
+          <img src = "https://symfony.com/images/logos/sf-positive.svg" height ="35px">
+          <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height ="35px">
+          <img src = "https://api-platform.com/static/1d564bfa48554e9e55528e4352daeec4/77647/Logo_Circle%20webby%20text%20blue%20light.png" height ="35px">
         </td>
         <td  align = "center">
           <img src = "https://cdn.auth0.com/blog/react-js/react.png" height ="45px">
