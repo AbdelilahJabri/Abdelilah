@@ -1,9 +1,12 @@
 <div align = "center">
 
-#Abdelilah Jabri
-##Fullstack Web / Mobile Developer
+# Abdelilah Jabri
+<br/>
+## Fullstack Web / Mobile Developer
+<br/>
 ![](https://visitor-badge.laobi.icu/badge?page_id=AbdelilahJabri.Abdelilah)
-  <table align ="center">
+<br/>
+  <table align ="center" style="backgound-color: white;">
     <thead>
     <tr>
       <th>Backend</th>
