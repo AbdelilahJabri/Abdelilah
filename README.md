@@ -57,7 +57,6 @@
           <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height ="45px">
           <img src = "https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" height ="45px">
           <img src = "https://nordicapis.com/wp-content/uploads/pm-logo-vert.png" height ="45px">
-          <img src = "https://pbs.twimg.com/profile_images/1074669573503365121/-AvocOY1_400x400.jpg" height ="45px">
         </td>
         <td  align = "center">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height ="45px" />
