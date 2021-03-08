@@ -60,10 +60,8 @@
         </td>
         <td  align = "center">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" height ="45px" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height ="45px" />
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height ="45px" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height ="45px"/>
-          <img src="https://cdn.freebiesupply.com/logos/large/2x/travis-ci-logo-png-transparent.png" height ="45px"/>
         </td>
       </tr>
     </tbody>
